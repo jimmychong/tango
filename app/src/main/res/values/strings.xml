@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tango</string>
+    <string name="user_name">User Name:</string>
+    <string name="update">Update</string>
+    <string name="no_of_comments">no. of comments:</string>
+    <string name="detail">Detail</string>
+    <string name="add">add</string>
+    <string name="add_new_post">Add New Post</string>
+    <string name="post_title">Post Title</string>
+    <string name="input_title">input title</string>
+    <string name="submit">submit</string>
+    <string name="cancel">cancel</string>
+</resources>
